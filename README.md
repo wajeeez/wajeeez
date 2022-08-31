@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wajeeez, A programming insect in his own virtual word 💞.
+- 👋 Hi, I’m @wajeeez, A programming insect in his own virtual world 💞.
 - 👀 I like to turn ideas into Apps.
 - 🌱 I’m currently learning Kotlin and Javascript.
 
